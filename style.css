@@ -1,0 +1,20 @@
+body {
+  min-height: 4000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #fdadac;
+}
+
+#menu {
+  background-color: #fdadac;
+}
+
+h2 {
+  text-align: center;
+}
+footer {
+  background-color: #fdadac; 
+  padding: 20px 0; 
+  color: #000000; 
+}
